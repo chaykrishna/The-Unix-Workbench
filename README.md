@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Unix Workbench by Johns Hopkins University
 
 <p align="center">
@@ -103,3 +104,6 @@ Warm Regards, \
 Piyush Sambhi \
 Email: piyush.sambhi07@icloud.com \
 Git URL: https://github.com/sambhipiyush
+=======
+# The-Unix-Workbench
+>>>>>>> e77df84fb6631b765ef0868bacd0fef771a0a57e
