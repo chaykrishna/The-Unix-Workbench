@@ -101,9 +101,8 @@ Finally we'll set up a cloud computing environment so we can explore how compute
 #### ***Kudos!!!***
 
 Warm Regards, \
-Piyush Sambhi \
-Email: piyush.sambhi07@icloud.com \
-Git URL: https://github.com/sambhipiyush
+Chaitanya Malladi \
+Git URL: https://github.com/chaykrishna
 =======
 # The-Unix-Workbench
 >>>>>>> e77df84fb6631b765ef0868bacd0fef771a0a57e
